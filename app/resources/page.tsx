@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import SectionHeading from '../../components/SectionHeading'
+import SectionHeading from '../components/SectionHeading'
 
 export default function ResourcesPage() {
   return (
