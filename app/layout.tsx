@@ -2,7 +2,7 @@ import './globals.css'
 import type { Metadata } from 'next'
 import type { ReactNode } from 'react'
 import { Sora, Fraunces } from 'next/font/google'
-import Sidebar from '../components/Sidebar'
+import Sidebar from './components/Sidebar'
 
 const sora = Sora({
   subsets: ['latin'],

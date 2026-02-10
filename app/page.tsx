@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import Link from 'next/link'
-import SectionHeading from '../components/SectionHeading'
+import SectionHeading from './components/SectionHeading'
 
 export default function HomePage() {
   return (
